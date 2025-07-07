@@ -1,5 +1,7 @@
 {
   "extends": ["react-app"],
-  "rules": {},
+  "rules": {
+    "no-console":"error"
+  },
   "plugins": ["jsx-a11y"]
 }
